@@ -1,6 +1,28 @@
 #Face detection js
 
-A fork of the [pure-javascript face detection](https://github.com/liuliu/ccv/tree/current/js) in [Liu Liu's CCV library](https://github.com/liuliu/ccv) (in branch 'current'), converted for Node and npm.
+A fork of the [node.js conversion](https://github.com/orls/ccv-purejs) of the [pure-javascript face detection](https://github.com/liuliu/ccv/tree/current/js) in [Liu Liu's CCV library](https://github.com/liuliu/ccv) (in branch 'current'), converted for use in [wowwwbeautiful](twitter.com/wowwwbeautiful)
+
+
+
+
+
+
+
+
+
+
+
+
+original documentation below
+
+
+----------------------------------------
+
+
+
+
+
+
 
 # Usage
 
